@@ -82,4 +82,4 @@ The jars are in the `find-queries` folder.
 To find a query, you need to execute `java -jar find_XYZ.jar [jena-database-location] properties_wikidata.txt`, where `properties_wikidata.txt` is a file with the properties that can be chosen.
 
 # Results
-You can find our results in [our repository](https://github.com/GQgH5wFgzT/jena/benchmark-leapfrog/tree/gh-pages/results)
+You can find our results in the `results` folder. Each row of a result file has three values separeted by semicolon: `query_number;result_size;time_in_nanoseconds`.  
